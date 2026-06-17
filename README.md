@@ -2,6 +2,8 @@
 
 A native Windows C++ project that trains a small neural network on flight samples, simulates a predicted trajectory, and renders the result in an interactive Direct2D viewer.
 
+<img width="1238" height="610" alt="image" src="https://github.com/user-attachments/assets/df9e4c0a-012c-40fb-9857-e4cd7e459397" />
+
 ## Features
 
 - Reads flight telemetry from CSV input.
